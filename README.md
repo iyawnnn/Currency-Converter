@@ -27,15 +27,15 @@ Usage
 
 3. Follow the Prompts:
 
-        Enter the base currency (e.g., PHP).
-    
-        Input the amount you want to convert.
-    
-       Specify the target currency (e.g., USD).
-    
-        View the converted amount and choose to perform another conversion or exit.
+         Enter the base currency (e.g., PHP).
+          
+         Input the amount you want to convert.
+      
+         Specify the target currency (e.g., USD).
+          
+         View the converted amount and choose to perform another conversion or exit.
 
-4. Exiting the Program:
+5. Exiting the Program:
 
       Type no, n, or press Ctrl+C when prompted to exit.
 
