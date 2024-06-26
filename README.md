@@ -16,26 +16,26 @@ Usage
 
 1. Clone the repository
 
-  git clone https://github.com/your-username/currency-converter.git
-
-  cd currency-converter
+      git clone https://github.com/your-username/currency-converter.git
+    
+      cd currency-converter
 
 
 2. Run the program
 
-  python currency_converter.py
+      python currency_converter.py
 
 3. Follow the Prompts:
 
-    Enter the base currency (e.g., PHP).
-
-    Input the amount you want to convert.
-
-   Specify the target currency (e.g., USD).
-
-    View the converted amount and choose to perform another conversion or exit.
+        Enter the base currency (e.g., PHP).
+    
+        Input the amount you want to convert.
+    
+       Specify the target currency (e.g., USD).
+    
+        View the converted amount and choose to perform another conversion or exit.
 
 4. Exiting the Program:
 
-  Type no, n, or press Ctrl+C when prompted to exit.
+      Type no, n, or press Ctrl+C when prompted to exit.
 
