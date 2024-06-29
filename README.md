@@ -1,41 +1,24 @@
-The Currency Converter works by utilizing a dictionary (exchange_rates) containing exchange rates for each currency relative to others. Users input a base currency, specify the amount to convert, and select the target currency. The program calculates and displays the converted amount based on the provided exchange rates.
+# Currency Converter
 
-Features
+The Currency Converter works by utilizing a dictionary (`exchange_rates`) containing exchange rates for each currency relative to others. Users input a base currency, specify the amount to convert, and select the target currency. The program calculates and displays the converted amount based on the provided exchange rates.
 
-Real-Time Exchange Rates: Utilizes exchange rates updated as of 6/27/2024 for accurate currency conversions.
+## Features
 
-Multiple Currency Support: Supports conversion between PHP, WON, YEN, EUR, USD, GBP, AUD, CAD, CHF, CNY, and INR.
+- **Real-Time Exchange Rates:** Utilizes exchange rates updated as of 6/27/2024 for accurate currency conversions.
+- **Multiple Currency Support:** Supports conversion between PHP, WON, YEN, EUR, USD, GBP, AUD, CAD, CHF, CNY, and INR.
+- **User-Friendly Interface:** Simple and intuitive command-line interface for ease of use.
+- **Error Handling:** Includes robust error handling to manage invalid inputs and edge cases.
+- **Interactive Experience:** Continuously prompts users to perform multiple conversions until they choose to exit.
 
-User-Friendly Interface: Simple and intuitive command-line interface for ease of use.
+## Usage
 
-Error Handling: Includes robust error handling to manage invalid inputs and edge cases.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/currency-converter.git
+   cd currency-converter
 
-Interactive Experience: Continuously prompts users to perform multiple conversions until they choose to exit.
-
-Usage
-
-1. Clone the repository
-
-      git clone https://github.com/your-username/currency-converter.git
-    
-      cd currency-converter
-
-
-2. Run the program
-
-      python currency_converter.py
-
-3. Follow the Prompts:
-
-         Enter the base currency (e.g., PHP).
-          
-         Input the amount you want to convert.
-      
-         Specify the target currency (e.g., USD).
-          
-         View the converted amount and choose to perform another conversion or exit.
-
-5. Exiting the Program:
-
-      Type no, n, or press Ctrl+C when prompted to exit.
-
+## Steps
+- Enter the base currency (e.g., PHP).
+- Input the amount you want to convert.
+- Specify the target currency (e.g., USD).
+- View the converted amount and choose to perform another conversion or exit.
