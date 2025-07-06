@@ -10,13 +10,6 @@ The Currency Converter works by utilizing a dictionary (`exchange_rates`) contai
 - **Error Handling:** Includes robust error handling to manage invalid inputs and edge cases.
 - **Interactive Experience:** Continuously prompts users to perform multiple conversions until they choose to exit.
 
-## Usage
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/currency-converter.git
-   cd currency-converter
-
 ## Steps
 - Enter the base currency (e.g., PHP).
 - Input the amount you want to convert.
